@@ -1,0 +1,54 @@
+*{
+	margin:0;
+	padding: 0;
+	box-sizing: border-box;
+	text-decoration: none;
+}
+
+
+.contenedor-total{
+	width: 100%;
+	max-width: 1000px;
+	margin:auto;
+	margin-top: 20px;
+	display: flex;
+}
+
+
+/*Contenedor mensaje de bienvenida*/
+.contenedor-bienvenida{
+	width: 100%
+	max-width:800px;
+	text-align: center;
+	padding: 40px;
+	margin: auto;
+	margin-top: 100px;
+	background: white;
+	border-radius: 20px;
+}
+
+.logo-bienvenida{
+	width: 200px;
+	margin: 20px;
+}
+
+.titulo-bienvenida{
+	font-weight: 400;
+	font-size: 40px;
+	margin-top: 20px;
+}
+
+.titulo-bienvenida b{
+	color:#BF4222;
+}
+
+.cerrar-sesion{
+	width: 100%;
+	max-width: 600px;
+	margin:auto;
+	display: block;
+	padding: 20px;
+	margin-top: 40px;
+	background: linear-gradient(90deg, #ff8000,#E30F87);
+
+}

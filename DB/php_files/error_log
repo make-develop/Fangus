@@ -1,0 +1,89 @@
+[03-Feb-2020 03:39:31 UTC] PHP Notice:  Undefined index: id in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 5
+[03-Feb-2020 03:39:31 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 6
+[03-Feb-2020 03:39:31 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 03:39:31 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 03:39:31 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 13
+[03-Feb-2020 03:39:31 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 03:39:31 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 17:25:45 UTC] PHP Notice:  Undefined index: id in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 5
+[03-Feb-2020 17:25:45 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 6
+[03-Feb-2020 17:25:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 17:25:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 17:25:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 13
+[03-Feb-2020 17:25:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 17:25:45 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 17:27:30 UTC] PHP Notice:  Undefined index: id in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 5
+[03-Feb-2020 17:27:30 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 6
+[03-Feb-2020 17:27:30 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 17:27:30 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 17:27:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 13
+[03-Feb-2020 17:27:30 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 17:27:30 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 18:35:45 UTC] PHP Notice:  Undefined index: id in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 5
+[03-Feb-2020 18:35:45 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 6
+[03-Feb-2020 18:35:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 18:35:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 10
+[03-Feb-2020 18:35:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 13
+[03-Feb-2020 18:35:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[03-Feb-2020 18:35:45 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgot.php on line 21
+[06-Feb-2020 18:25:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[06-Feb-2020 18:25:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[06-Feb-2020 18:25:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[06-Feb-2020 21:28:03 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[06-Feb-2020 21:28:03 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[06-Feb-2020 21:28:03 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:03:41 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:03:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:03:41 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:06:17 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:06:17 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:06:17 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:06:33 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:06:33 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:06:33 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:06:36 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:06:36 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:06:36 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:06:56 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:06:56 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:06:56 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:07:45 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 6
+[07-Feb-2020 17:07:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:07:45 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:07:45 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:07:45 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:07:45 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:07:52 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 6
+[07-Feb-2020 17:07:52 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:07:52 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:07:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:07:52 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:07:52 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:08:22 UTC] PHP Notice:  Undefined index: contact_no in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 5
+[07-Feb-2020 17:08:22 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 6
+[07-Feb-2020 17:08:22 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:08:22 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:08:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:08:22 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:08:22 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:09:07 UTC] PHP Notice:  Undefined index: contact_no in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 5
+[07-Feb-2020 17:09:07 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 6
+[07-Feb-2020 17:09:07 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:09:07 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:09:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:09:07 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:09:07 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:16:12 UTC] PHP Notice:  Undefined index: contact_no in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 5
+[07-Feb-2020 17:16:12 UTC] PHP Notice:  Undefined index: name in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 6
+[07-Feb-2020 17:16:12 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:16:12 UTC] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 10
+[07-Feb-2020 17:16:12 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 13
+[07-Feb-2020 17:16:12 UTC] PHP Notice:  Undefined variable: conn in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[07-Feb-2020 17:16:12 UTC] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home1/makedeve/abogatti.makedevelop.com.co/public_html/php_files/forgotpassword.php on line 23
+[02-Mar-2020 15:20:02 America/Bogota] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '@gmail.com F ON F.id = D.id
+							LEFT JOIN Mensajes_maicolalarcon93@gmail.com' at line 3 in /home1/makedeve/fangus.makedevelop.com.co/DB/php_files/Datos.php:17
+Stack trace:
+#0 /home1/makedeve/fangus.makedevelop.com.co/DB/php_files/Datos.php(17): PDOStatement->execute()
+#1 /home1/makedeve/fangus.makedevelop.com.co/DB/php_files/Datos_GETALL.php(9): Datos::ObtenerTodoLosDatos('maicolalarcon93...')
+#2 {main}
+  thrown in /home1/makedeve/fangus.makedevelop.com.co/DB/php_files/Datos.php on line 17
