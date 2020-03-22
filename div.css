@@ -1,0 +1,46 @@
+@charset "utf-8";
+* {
+margin:0px;
+padding: 0px;
+}
+header{
+background: red;
+margin-top: 0px;
+}
+
+section {
+float: left;
+width: 660px;
+margin: 20px;
+background: red;
+}
+
+/*aside*/
+.content-Profile{
+margin-top: 70px;
+float: left;
+width: 280px;
+height: 410px;
+background: orange;
+}
+
+.content-Ranking{
+margin-top: 70px;
+float: right;
+width: 280px;
+height: 410px;
+background: orange;
+}
+
+article{
+margin-left: 0px;
+  background: red;
+  width:760px;
+  height:1000px;
+}
+
+textarea {
+margin-left: 0px;
+background: white;
+width: 760px;
+}
