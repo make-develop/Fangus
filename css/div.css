@@ -22,14 +22,24 @@ float: left;
 width: 280px;
 height: 410px;
 background: orange;
+border: 2px solid black;
 }
 
+.content-Chat{
+  margin-top: 70px;
+  float: right;
+  width: 280px;
+  height: 50px;
+  background: orange;
+  border: 2px solid black;
+  }
 .content-Ranking{
 margin-top: 70px;
 float: right;
 width: 280px;
 height: 410px;
 background: orange;
+border: 2px solid black;
 }
 
 article{
