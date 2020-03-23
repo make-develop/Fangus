@@ -1,0 +1,191 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+header{
+    width: 100%;
+    height: 50px;
+    background: black;
+    font-family: Helvetica;
+    color: white;
+}
+.size-fangus{
+    margin-top:-40px;
+    width: auto;
+    height: 140px;
+    
+}
+.registro-container{
+    text-align: center;
+}
+.UserForm {
+    padding: 1.5rem 0.25rem;
+    position: relative;
+}
+.u-wrapper {
+    max-width: 552px;
+}
+.u-wrapper, .u-wrapper_A, .u-wrapper_B {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto !important;
+    max-width: 1200px;
+    padding: 0 0.5em;
+    position: relative;
+}
+
+.u-wrapper, .u-wrapper_A, .u-wrapper_B {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto !important;
+    max-width: 1200px;
+    padding: 0 0.5em;
+    position: relative;
+}
+.u-wrapper, .u-wrapper_A, .u-wrapper_B {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0 auto !important;
+    max-width: 1200px;
+    padding: 0 0.5em;
+    position: relative;
+}
+.Details-name {
+    line-height: 1.25;
+    font-weight: bold;
+}
+.FormInput {
+    position: relative;
+    margin-bottom: 0.5rem;
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -moz-box-orient: vertical;
+    -o-box-orient: vertical;
+    -webkit-flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
+}
+.FormInput-field {
+    border: 1px solid #c7c7c7;
+    padding: 20px 12px;
+    font-size: 1rem;
+    -webkit-border-radius: 0.25rem;
+    border-radius: 0.25rem;
+    -webkit-transition: 0.2s border-color;
+    -moz-transition: 0.2s border-color;
+    -o-transition: 0.2s border-color;
+    -ms-transition: 0.2s border-color;
+    transition: 0.2s border-color;
+    background-color: #fff;
+    background-image: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    outline: 0;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    color: #696969;
+}
+.FormInput-label {
+    position: absolute;
+    opacity: 0;
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
+    -webkit-filter: alpha(opacity=0);
+    -moz-filter: alpha(opacity=0);
+    -ms-filter: alpha(opacity=0);
+    -o-filter: alpha(opacity=0);
+    filter: alpha(opacity=0);
+    -webkit-transition: 0.2s opacity;
+    -moz-transition: 0.2s opacity;
+    -o-transition: 0.2s opacity;
+    -ms-transition: 0.2s opacity;
+    transition: 0.2s opacity;
+    z-index: -1;
+    font-family: 'Lato', sans-serif;
+    font-weight: normal;
+}
+.FormInput-error {
+    margin-left: 0.75rem;
+    color: #ff4842;
+    font-size: 12px;
+    line-height: 1.33;
+    min-height: 1rem;
+}
+.TermsAndConditions {
+    display: -webkit-box;
+    display: -moz-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: box;
+    display: flex;
+    -webkit-box-align: center;
+    -moz-box-align: center;
+    -o-box-align: center;
+    -ms-flex-align: center;
+    -webkit-align-items: center;
+    align-items: center;
+    font-size: 0.75rem;
+    line-height: 1.38;
+    margin: 1rem 0 2rem 0;
+}
+.FormCheckbox {
+    margin-right: 0.5rem;
+}
+.FormCheckbox-field {
+    display: none;
+}
+.FormCheckbox-label {
+    display: inline-block;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+.FormCheckbox-label:before {
+    content: '';
+    background: #fff;
+    display: block;
+    height: 22px;
+    width: 22px;
+    line-height: 22px;
+    vertical-align: middle;
+    -webkit-border-radius: 0.25rem;
+    border-radius: 0.25rem;
+    border: 1px solid #c7c7c7;
+    -webkit-transition: 0.1s;
+    -moz-transition: 0.1s;
+    -o-transition: 0.1s;
+    -ms-transition: 0.1s;
+    transition: 0.1s;
+}
+.TermsAndConditions-label {
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    position: relative;
+    top: 0.5rem;
+}
+.TermsAndConditions-error {
+    color: #ff4842;
+    height: 1rem;
+    position: relative;
+    top: 0.5rem;
+}
