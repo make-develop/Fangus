@@ -8,16 +8,46 @@ background: red;
 margin-top: 0px;
 }
 
+
 section {
 float: left;
-width: 660px;
-margin: 20px;
-background: red;
+width: 100px;
+margin-top: 10px;
+margin-left: 10px;
+margin-right: 10px;
+text-align: center;
+
 }
+
+label{
+
+  display: block;
+  margin-top: 20px;
+  font-size: 20px;
+  font-weight: 300;
+  text-align: center;
+
+}
+
+.selection{ 
+  display: block;
+  height: 30px;
+  border:0px;
+  outline: 0px;
+color:#030F87;
+font-size: 16px;
+margin-left: 30%;
+  width: 300px;
+}
+
+input [type="submit"]{
+  align-items:center;
+}
+
 
 /*aside*/
 .content-Profile{
-margin-top: 70px;
+margin-top: 10px;
 float: left;
 width: 280px;
 height: 410px;
@@ -25,33 +55,66 @@ background: orange;
 }
 
 .content-Ranking{
-margin-top: 70px;
+margin-top: 10px;
 float: right;
 width: 280px;
 height: 410px;
 background: orange;
 }
 
-article{
-margin-left: 0px;
+.container-image{
+  padding-top: 20px; 
+}
+
+.container-important{
+   margin: 0px;
   background: red;
   width:760px;
-  height:1000px;
+  height:500px;
 }
 
-textarea {
-margin-left: 0px;
-background: white;
-width: 760px;
-}
-
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    border: 1px chocolate;
-    padding: 1em;
-    width: 70%;
-    height: 70%;
-  }
+ footer{
+  margin-top: 480px;
+ }
   
+@media screen and (max-width: 1200px){
+    
+    .contenedor-body{
+        flex-wrap: wrap;
+    }
+    
+    .columna1{
+        max-width: 100%;
+    }
+    
+    .columna3,
+    .columna4{
+        margin-top: 40px;
+    }
+              /*Responsive*/
+  .container-Ranking{
+
+    display: none;
+
+  }
+
+  .container-Profile{
+    display: none;
+  }
+
+  .container-important{
+    display: block;
+  }
+
+  .container-form{
+
+    float: left;
+
+    margin: auto;
+
+    width: 100%;
+
+    background: red;
+  }
+
+}
